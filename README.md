@@ -1,0 +1,2 @@
+# Rupsa
+CodeChef practice (beginner)
